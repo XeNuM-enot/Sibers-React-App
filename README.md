@@ -1,7 +1,7 @@
 To run the application through the terminal, enter the command:
 
 
-<b>npm install</b> (to install all required modules)
+<b>npm install</b> (to install all required modules)<br>
 <b>npm start</b>
 
 Runs the app in the development mode.
